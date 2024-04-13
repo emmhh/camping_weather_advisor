@@ -5,7 +5,7 @@ Code structure is for the ease of hosting the back-end and front-end on Glitch, 
 
 You will need to add your own .env with api keys.
 
-Node version: 20.10.0
+`Node version: 20.10.0`
 
 ## Assumptions
 - Camping locations tend to have low light pollution for meteor shower watching
