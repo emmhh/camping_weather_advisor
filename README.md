@@ -1,9 +1,11 @@
 # Camping Advisor APP
 
+This is a simple data warehousing project for INFSCI2711 adv topics in DBMS.
+
 The `Regional_data_combined` folder contains all data and scripts used to generate the data.
 Code structure is for the ease of hosting the back-end and front-end on Glitch, for final demo purposes.
 
-You will need to add your own .env with api keys.
+You will need to add your .env with API keys.
 
 `Node version: 20.10.0`
 
